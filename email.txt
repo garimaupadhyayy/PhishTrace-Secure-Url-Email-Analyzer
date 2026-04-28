@@ -1,0 +1,27 @@
+From: "PayPal Security Team" <support@paypa1-secure-alert.xyz>
+To: user@gmail.com
+Subject: URGENT: Suspicious Activity Detected on Your Account
+Reply-To: helpdesk@secure-verification.ru
+
+Dear Customer,
+
+We have detected unusual login attempts on your PayPal account from an unknown device and location.
+
+For your security, your account has been temporarily restricted.
+
+You must verify your identity immediately to restore full access.
+
+Failure to complete verification within 24 hours will result in permanent account suspension.
+
+Please click the secure link below to verify your account:
+
+http://paypa1-secure-alert.xyz/login/verify?session=938472
+
+If you do not verify your account, your funds may be held for security reasons.
+
+We apologize for any inconvenience and appreciate your prompt attention to this matter.
+
+Sincerely,  
+PayPal Security Team  
+
+© 2026 PayPal Inc. All rights reserved.
