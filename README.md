@@ -43,23 +43,6 @@ The project focuses on practical cybersecurity techniques and emphasizes interpr
 python main.py
 ```
 
-## 🧪 Sample Inputs
-
-### 🔹 Suspicious URL
-
-```
-http://verify-paypal-login.com
-```
-
-### 🔹 Suspicious Email
-
-```
-URGENT: Verify your account immediately
-Click here: http://fake-login.com
-```
-
----
-
 ## 💡 Key Concept
 
 This project focuses on **explainable security**, where each detection is based on clear rules rather than black-box models.
