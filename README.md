@@ -7,22 +7,22 @@ It then classifies the result into Low, Medium, or High risk levels to assist in
 Additionally, it provides clear and explainable reasons behind each detection, making the system transparent and easy to understand.
 The project focuses on practical cybersecurity techniques and emphasizes interpretability over black-box models.
 
-## 🚀 Features
+## Features
 
-### 🔗 URL Analysis
+### URL Analysis
 
 * Detects insecure protocols (HTTP)
 * Identifies suspicious keywords (login, verify, bank, secure)
 * Flags IP-based URLs
 * Analyzes URL length and structure
 
-### 📧 Email Analysis
+### Email Analysis
 
 * Detects urgency language (urgent, immediate action, verify)
 * Identifies suspicious links
 * Flags abnormal or phishing-like patterns
 
-### 📊 Risk Scoring
+### Risk Scoring
 
 * Generates a risk score (0–100)
 * Classifies results as:
@@ -31,30 +31,29 @@ The project focuses on practical cybersecurity techniques and emphasizes interpr
   * High Risk
 * Provides clear reasons for each detection
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Regular Expressions (`re`)
 * Rule-Based (Heuristic) Analysis
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python main.py
 ```
 
-## 💡 Key Concept
+## Key Concept
 
 This project focuses on **explainable security**, where each detection is based on clear rules rather than black-box models.
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Machine Learning-based detection
 * Integration with threat intelligence APIs (e.g., VirusTotal)
 * Web-based interface (Flask/React)
 
 
-## 👩‍💻 Author
-
+## Author
 Garima Upadhyay
